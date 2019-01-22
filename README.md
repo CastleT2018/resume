@@ -1,5 +1,5 @@
-洪國元（ Thomas ）
-</hr>
+<h1>洪國元（ Thomas ）</h1>
+<hr></hr>
 <ul>
   <li>Birthday : 10/04/1984</li>
   <li>Education : 私立建國科技大學 - 電子系</li>
