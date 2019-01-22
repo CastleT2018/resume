@@ -34,7 +34,6 @@
 
 <ul>
   <li>個人介紹網頁 - https://castlet2018.github.io/</li>
-  <li>使用 BootStrap 做出網頁排版與 RWD 響應式設計 - </li>
 </ul>
 <br>
 <h2>自我介紹</h2>
