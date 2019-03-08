@@ -33,8 +33,7 @@
 <h2>作品</h2>
 
 <ul>
-  <li>手刻 + Scss 規劃響應式網頁版型個人介紹網頁 - https://castlet2018.github.io/</li>
-  <li>使用 BootStrap + jQuery Plugin 規劃電影介紹網頁 </li>
+  <li>響應式網頁版型個人介紹網頁 - https://castlet2018.github.io/</li>
 </ul>
 <br>
 <h2>自我介紹</h2>
